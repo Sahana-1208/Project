@@ -1,0 +1,21 @@
+body
+{
+    background: #00fff7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #36badb, #8400ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #36c5db, #00ffcc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.form
+{
+    background: #ECE9E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 5px;
+    width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+    height: 700px; 
+}
+.footer
+{
+    text-align: center;
+}
